@@ -1,7 +1,6 @@
 import Car from "./car.js";
-export default WishList;
 
-class WishList {
+export default class WishList {
   //two class properties
     list = [];
     nextId = 0;

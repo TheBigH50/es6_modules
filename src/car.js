@@ -1,6 +1,4 @@
-export default Car;
-
-class Car {
+export default class Car {
   constructor(id, make, model, year) {
     this.id = id;
     this.make = make;
