@@ -1,3 +1,5 @@
+export { Car };
+
 class Car {
   constructor(id, make, model, year) {
     this.id = id;
