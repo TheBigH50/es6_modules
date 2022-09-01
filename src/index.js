@@ -15,3 +15,4 @@ let modelInput = document.querySelector("#modelInput")
 9. Select the remove button
 10. Select the wishlist unordered list element
 11. Call the `WishList` constructor to create an instance from the `WishList` class*/
+
