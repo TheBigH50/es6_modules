@@ -7,10 +7,4 @@ class Car {
     this.model = model;
     this.year = year;
   }
-  print() {
-    console.log(this.make);
-  }
 }
-
-const cr = new Car("myCar", "Volvo");
-cr.print()
